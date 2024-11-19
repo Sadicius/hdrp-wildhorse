@@ -22,4 +22,4 @@
 # Credits
 - All credtis and Thanks for the autor original: rsg-wildhorse
 - Thanks RMS version
-Sadicius / [Sadicius#1150](https://linktr.ee/sadicius)
+- Sadicius / [Sadicius#1150](https://linktr.ee/sadicius)
