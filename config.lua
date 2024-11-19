@@ -83,6 +83,6 @@ Config.HorseModels = { -- mapping of horse model hashes to their names
 -----------------------
 
 Config.Webhooks = {
-	["wildhorse"] = "https://discord.com/api/webhooks/1248940878056394823/f_lq_PeslXPN0_k4ooRB0UJJNEdgpqCz04y911SfpOzfeciEh_rvKEt6TVxHishQbTa7",
-    ["trader"] = "https://discord.com/api/webhooks/1248299675400929290/sHnbVwQMuInW1YqyA2U_2KJKKKZCbostdPjAssvX8nl2DTZ_Hz5y8DEJZwGSTpquEcvU",
+    ["wildhorse"] = "",
+    ["trader"] = "",
 }
