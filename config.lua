@@ -29,7 +29,7 @@ Config.SaleMultiplier = 1
 Config.SellWildHorseLocations = {
     {
 	name = locale('cf_lang_1'),
-	location = 'rodeo-sellwildhorse',
+	location = 'rodeo-sellwildhorse', -- id unique
 	coords = vector3(1405.91, 244.23, 89.77),
 	npcmodel = `a_m_m_rhdforeman_01`,
 	npccoords = vector4(1405.91, 244.23, 89.77, 160.27),
