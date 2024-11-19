@@ -1,0 +1,1 @@
+saddlebag 	 = {name = 'saddlebag', label = 'Saddle Wild Horse', weight = 650, type = 'item', image = 'saddlebag.png',  unique = false, useable = true, description = ''},
